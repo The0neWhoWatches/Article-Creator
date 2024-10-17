@@ -1,0 +1,15 @@
+#T This is my first Article!
+#S this is a subheading
+#t this is text
+Even text without #t is still showed as text
+#S Even MORE stuff!
+#tB bold text
+#tI Italic text
+#tS Strike-through text
+#tH highlited text
+#tU underlines text
+
+leaving spaces makes spaces
+
+#S we can even have LINKS!
+#L [www.oreo.com] {oreos}
